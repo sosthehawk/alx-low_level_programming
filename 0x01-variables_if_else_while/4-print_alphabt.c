@@ -11,7 +11,7 @@ int main(void)
 	alphabet = 'a';
 	newline = '\n';
 	while (alphabet <= 'z')
-	{ 
+	{
 		if (alphabet == 'q' || alphabet == 'e')
 		{
 			alphabet++;
@@ -24,4 +24,4 @@ int main(void)
 	}
 	putchar (newline);
 	return (0);
-}	
+}
