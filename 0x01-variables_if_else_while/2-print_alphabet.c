@@ -10,10 +10,10 @@ int main(void)
 
 	alphabet = 'a';
 	newline = '\n';
-	while (aiphabet <= 'z')
+	while (alphabet <= 'z')
 	{
 		putchar (alphabet);
-		aiphabet++;
+		alphabet++;
 	}
 	putchar (newline);
 
