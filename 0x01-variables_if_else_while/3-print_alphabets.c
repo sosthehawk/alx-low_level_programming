@@ -13,7 +13,7 @@ int main(void)
 	newline = '\n';
 
 	while (alphabet_lowercase <= 'z')
-	{	
+	{
 		putchar(alphabet_lowercase);
 		alphabet_lowercase++;
 	}
