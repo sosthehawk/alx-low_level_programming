@@ -18,7 +18,7 @@ int main(void)
 		}
 		else
 		{
-			ptchar (alphabet);
+			putchar (alphabet);
 		alphabet++;
 		}
 	}
